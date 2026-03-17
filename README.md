@@ -128,7 +128,7 @@ project-folder
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hall-of-magical-innovations.git
+git clone https://github.com/Yaswanth8407/hall-of-magical-innovations.git
 ```
 
 2. Open the project folder
